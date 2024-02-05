@@ -1,0 +1,3 @@
+- Dalam step data preparation, harus dilakukan pengecekan terhadap semua kolom
+- Konversi kolom yang berupa numerik harus dilakukan di dalam step data preparation (contoh: saat mengkonversi original price menjadi numerik)
+- Model evaluation masih kurang tepat
